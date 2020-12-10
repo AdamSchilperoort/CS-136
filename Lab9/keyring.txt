@@ -1,0 +1,4 @@
+A key ring is a file which contains multiple public keys of certificate authority (CA). 
+A key ring is a file which is necessary for Secure Sockets Layer (SSL) connection over the web. 
+It is securely stored on the server which hosts the website. 
+It contains the public/private key pair for the particular website.
